@@ -1,24 +1,5 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 参考
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [How To Use GraphQL with Ruby on Rails \- Part 1 \- Backend \- YouTube](https://www.youtube.com/watch?v=kSlJH3hrV58)
+- [How To Use GraphQL with Ruby on Rails \- Part 2 \- React Apollo Frontend \- YouTube](https://www.youtube.com/watch?v=TOq86ozyHIA)
